@@ -1,6 +1,6 @@
 # AI-Hospital-Optimizer!
 ![Screenshot 2025-03-27 125927](https://github.com/user-attachments/assets/7d25f3e3-c0bd-4bc2-b872-90664db651da)
-[Screenshot 2025-03-27 125942](https://github.com/user-attachments/assets/d692d403-01ae-4452-b3b6-730654ca44af)
+![Screenshot 2025-03-27 125942](https://github.com/user-attachments/assets/d692d403-01ae-4452-b3b6-730654ca44af)
 # 🏥 AI-Driven Hospital Optimization System
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
