@@ -1,0 +1,3 @@
+review_id,hospital_id,doctor_id,patient_name,rating,text,timestamp
+1,1,1,Rahul Sharma,5,"Excellent care and treatment",2023-05-15
+2,1,null,Meena Patel,4,"Good facilities but long wait times",2023-06-20
